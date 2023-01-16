@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"hash/crc32"
 
-	"github.com/btcsuite/btcd/database"
+	"github.com/0xkraken/btcd/database"
 )
 
 // The serialized write cursor location format is:

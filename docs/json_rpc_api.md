@@ -1098,8 +1098,8 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/0xkraken/btcd/rpcclient"
+	"github.com/0xkraken/btcutil"
 )
 
 func main() {
@@ -1161,9 +1161,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/0xkraken/btcd/chaincfg/chainhash"
+	"github.com/0xkraken/btcd/rpcclient"
+	"github.com/0xkraken/btcutil"
 )
 
 func main() {
@@ -1253,9 +1253,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcutil"
+	"github.com/0xkraken/btcd/chaincfg/chainhash"
+	"github.com/0xkraken/btcd/rpcclient"
+	"github.com/0xkraken/btcutil"
 )
 
 func main() {

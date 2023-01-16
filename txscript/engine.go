@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/0xkraken/btcd/btcec"
+	"github.com/0xkraken/btcd/wire"
 )
 
 // ScriptFlags is a bitmask defining additional operations or tests that will be
