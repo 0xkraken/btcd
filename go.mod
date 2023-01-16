@@ -13,4 +13,14 @@ require (
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37
 )
 
-go 1.12
+require (
+	github.com/0xkraken/btcutil v0.0.0-20230116044705-7113c6c771c0
+	github.com/aead/siphash v1.0.1 // indirect
+	github.com/btcsuite/snappy-go v1.0.0 // indirect
+	github.com/hpcloud/tail v1.0.0 // indirect
+	github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23 // indirect
+	gopkg.in/fsnotify.v1 v1.4.7 // indirect
+	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
+)
+
+go 1.18
